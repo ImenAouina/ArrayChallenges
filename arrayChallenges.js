@@ -73,7 +73,7 @@ var result = reverse(["a", "b", "c", "d", "e"]);
 console.log(result); // we expect back ["e", "d", "c", "b", "a"]
 
 
-/**************** fibonacciArray*************/
+/**************** fibonacciArray**********/
 function fibonacciArray(n) {
     // the [0, 1] are the starting values of the array to calculate the rest from
     var fibArr = [0, 1];
